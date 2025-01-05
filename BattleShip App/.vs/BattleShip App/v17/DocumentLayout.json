@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC930DBB-6138-4CAE-99AE-81390ED75134}|BattleShipLibrary\\BattleShipLibrary.csproj|c:\\users\\utilizator\\desktop\\battleship app\\battleshiplibrary\\usermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC930DBB-6138-4CAE-99AE-81390ED75134}|BattleShipLibrary\\BattleShipLibrary.csproj|solutionrelative:battleshiplibrary\\usermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC930DBB-6138-4CAE-99AE-81390ED75134}|BattleShipLibrary\\BattleShipLibrary.csproj|c:\\users\\utilizator\\desktop\\battleship app\\battleshiplibrary\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC930DBB-6138-4CAE-99AE-81390ED75134}|BattleShipLibrary\\BattleShipLibrary.csproj|solutionrelative:battleshiplibrary\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CC3AC-5ABB-447D-A336-B492B21A2EE1}|BattleShipGame\\BattleShipGame.csproj|c:\\users\\utilizator\\desktop\\battleship app\\battleshipgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CC3AC-5ABB-447D-A336-B492B21A2EE1}|BattleShipGame\\BattleShipGame.csproj|solutionrelative:battleshipgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC930DBB-6138-4CAE-99AE-81390ED75134}|BattleShipLibrary\\BattleShipLibrary.csproj|c:\\users\\utilizator\\desktop\\battleship app\\battleshiplibrary\\gridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC930DBB-6138-4CAE-99AE-81390ED75134}|BattleShipLibrary\\BattleShipLibrary.csproj|solutionrelative:battleshiplibrary\\gridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC930DBB-6138-4CAE-99AE-81390ED75134}|BattleShipLibrary\\BattleShipLibrary.csproj|c:\\users\\utilizator\\desktop\\battleship app\\battleshiplibrary\\calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC930DBB-6138-4CAE-99AE-81390ED75134}|BattleShipLibrary\\BattleShipLibrary.csproj|solutionrelative:battleshiplibrary\\calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculations.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipLibrary\\Calculations.cs",
+              "RelativeDocumentMoniker": "BattleShipLibrary\\Calculations.cs",
+              "ToolTip": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipLibrary\\Calculations.cs",
+              "RelativeToolTip": "BattleShipLibrary\\Calculations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:13:29.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipLibrary\\UserMessages.cs",
+              "RelativeDocumentMoniker": "BattleShipLibrary\\UserMessages.cs",
+              "ToolTip": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipLibrary\\UserMessages.cs",
+              "RelativeToolTip": "BattleShipLibrary\\UserMessages.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwEUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:40:02.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridModel.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipLibrary\\GridModel.cs",
+              "RelativeDocumentMoniker": "BattleShipLibrary\\GridModel.cs",
+              "ToolTip": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipLibrary\\GridModel.cs",
+              "RelativeToolTip": "BattleShipLibrary\\GridModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA/wDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:08:39.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gameplay.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipLibrary\\Gameplay.cs",
+              "RelativeDocumentMoniker": "BattleShipLibrary\\Gameplay.cs",
+              "ToolTip": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipLibrary\\Gameplay.cs",
+              "RelativeToolTip": "BattleShipLibrary\\Gameplay.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAYwDwBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:06:11.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipGame\\Program.cs",
+              "RelativeDocumentMoniker": "BattleShipGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizator\\Desktop\\BattleShip App\\BattleShipGame\\Program.cs",
+              "RelativeToolTip": "BattleShipGame\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:37:19.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

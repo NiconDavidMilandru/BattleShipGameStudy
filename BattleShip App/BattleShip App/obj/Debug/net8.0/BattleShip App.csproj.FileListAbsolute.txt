@@ -1,0 +1,4 @@
+C:\Users\Utilizator\source\repos\BattleShip App\BattleShip App\obj\Debug\net8.0\BattleShip App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizator\source\repos\BattleShip App\BattleShip App\obj\Debug\net8.0\BattleShip App.AssemblyInfoInputs.cache
+C:\Users\Utilizator\source\repos\BattleShip App\BattleShip App\obj\Debug\net8.0\BattleShip App.AssemblyInfo.cs
+C:\Users\Utilizator\source\repos\BattleShip App\BattleShip App\obj\Debug\net8.0\BattleShip App.csproj.CoreCompileInputs.cache
